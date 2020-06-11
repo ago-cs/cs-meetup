@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JpgToPdfConverter": {
+      "commandName": "Project",
+      "commandLineArgs": "\"d:\\test\\image1.jpg\" \"d:\\test\\image2.jpg\" \"d:\\test\\result.pdf\""
+    }
+  }
+}
